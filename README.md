@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AjKarthik5. You can call me Karthik
-- 👀 I’m interested in core electronics, communication networks and programming languages such as python
-- 🌱 I’m currently learning python, web development and Java
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I'm Ajay. 
+- 👀 I’m interested in everything. You name it.
+- 🌱 I’m currently pursuing masters in cyber security.
+- 💞️ I’m looking to collaborate on networking, ethical hacking or cryptography.
 - 📫 How to reach me? You can always reach me through my email: ajaykarthik5601@gmail.com
 
 <!---
